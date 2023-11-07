@@ -6,7 +6,9 @@ This repository contains all the files related to the VBA-Challenge
 
 ### Solution Files
 I have one file in the folder
--VBA code
+
+-VBA code: Challenge2.bas
+
 
 ### Screenshots
 All three screenshots are added
